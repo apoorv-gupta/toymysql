@@ -1,0 +1,6 @@
+select * from airports.csv where LATITUDE == ^LATITUDE
+Select * from airports.csv
+select * from airports.csv countries.csv |output
+select distinct(LATITUDE) from airports.csv
+select LATITUDE , LONGITUDE from airports.csv
+select TYPE from airports.csv where LONGITUDE == -75
